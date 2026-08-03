@@ -100,7 +100,7 @@ export function Hero() {
             <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
           </a>
           <a
-            href="/resume.pdf"
+            href="resume.pdf"
             className="group inline-flex w-full items-center justify-center gap-2 rounded-full glass px-8 py-4 text-sm font-semibold text-purple-light transition-all duration-300 hover:-translate-y-0.5 hover:border-purple-soft/40 hover:shadow-glow sm:w-auto"
           >
             <FileDown className="h-4 w-4" />

@@ -134,7 +134,11 @@ export function Navbar() {
               })}
               <li>
                 <a
+<<<<<<< HEAD
                   href="resume.pdf.pdf"
+=======
+                  href="/resume.pdf"
+>>>>>>> 08869d5e954c239354b90afd653a597d73ae9411
                   onClick={close}
                   className="mt-1 flex items-center justify-center gap-2 rounded-xl bg-purple-gradient px-4 py-3 text-sm font-semibold text-white shadow-glow-sm"
                 >

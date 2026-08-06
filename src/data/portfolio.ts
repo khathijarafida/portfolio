@@ -89,16 +89,7 @@ export const skillGroups: { category: string; items: { name: string; icon: IconT
     items: [{ name: 'Problem Solving', icon: Trophy }],
   },
 ];
-export const projects = [
-  {
-    title: "Portfolio Website",
-    ...
-  },
-  {
-    title: "Another Project",
-    ...
-  }
-];
+
 export const education = {
   degree: 'Bachelor of Engineering',
   field: 'Computer Science and Engineering',
